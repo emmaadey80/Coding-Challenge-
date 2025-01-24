@@ -1,7 +1,7 @@
 // Task 1 Variables //
-let employeeName = (JeighIves)
-const employeeID = "6543221"
-var isActive = true
+let employeeName = (JeighIves) // name of employee
+const employeeID = "6543221" // employee ID
+var isActive = true // employee status
 
 console.log(employeeName);
 console.log(typeof employeeName);
