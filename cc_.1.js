@@ -43,3 +43,13 @@ let customerName = "EmmaAdey"
 let welcomeMessage = "Welcome back" + customerName;
 
 console.log(welcomeMessage);
+
+// Task 5 Boolean Data Type //
+let isLoggedIn = true
+let hasAccess = isLoggedIn && true;
+
+if (hasAccess) {
+    console.log("Access Granted: User is logged in.");
+} else {
+    console.log("Access Denied.");
+}
