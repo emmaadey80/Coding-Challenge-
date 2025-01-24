@@ -36,3 +36,10 @@ console.log(accountBalance);
 
 accountBalance /= 2;
 console.log(accountBalance);
+
+// Task 4 String Data Types //
+let customerName = "EmmaAdey"
+
+let welcomeMessage = "Welcome back" + customerName;
+
+console.log(welcomeMessage);
