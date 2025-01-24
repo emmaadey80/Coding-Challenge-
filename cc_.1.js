@@ -21,3 +21,18 @@ console.log(productPrice);
 console.log(typeof productPrice);
 console.log(isAvailable);
 console.log(typeof isAvailable);
+
+// Task 3 Number Data Type //
+let accountBalance = 400;
+
+accountBalance += 200;
+console.log(accountBalance);
+
+accountBalance -= 300;
+console.log(accountBalance);
+
+accountBalance *= 2;
+console.log(accountBalance);
+
+accountBalance /= 2;
+console.log(accountBalance);
